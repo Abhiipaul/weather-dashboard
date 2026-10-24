@@ -2,7 +2,7 @@
 
 A futuristic dark-themed desktop weather app built with Python and CustomTkinter. Search any city to see current conditions and a 5-day forecast.
 
-![Screenshot](screenshot.png) there was an screenshot but now i removed it  (hehe)!
+![Screenshot](screenshot.png) 
 
 ## Features
 - Futuristic dark neon interface (CustomTkinter)
